@@ -15,3 +15,9 @@ r <- 2
 A <- pi * r^2
 ```
 
+# Cálculo de longitud circunferencia
+
+```{r}
+r <- 2
+L <- 2 * pi * r
+```
